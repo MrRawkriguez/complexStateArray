@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  background-color: #37b816;
+  border: 6px solid;
+  border-radius: 50px;
+  border-color: white;
+  padding: 20px;
+  font-size: 3rem;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: white;
+  color: #37b816;
+}
